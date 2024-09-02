@@ -39,6 +39,42 @@ Example solution: 1a: \w+@\w+.com
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Solution to Bash exercise
 
 cd Desktop
