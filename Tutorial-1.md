@@ -17,8 +17,8 @@ Learn about regular expressions here
 Regular Expressions
 
 Write regular expressions to match strings with the following patterns (be as specific as possible): 
-Email addresses of the type <alphanumeric characters>@<alphanumeric characters>.com	
-Phone numbers of the type : 
+Email addresses of the type <alphanumeric characters>@<alphanumeric characters>.com	\\
+Phone numbers of the type : \\
 Either (3 digits)-7 digits e.g (814)-3334563 OR
 10 digits e.g 8143334563 [Should match both]
 Website URLs: 
